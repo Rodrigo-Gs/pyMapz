@@ -9,7 +9,7 @@ class PyMapz:
         print("[ROOT] Starting pyGame...")
         pygame.init()
         pygame.display.set_caption('pyMapz v1.1 - A Python Graph Traversal Visualizer')
-        pygame_icon = pygame.image.load('utils/pygraphr-logo.jpeg')
+        pygame_icon = pygame.image.load('images/pygraphr-logo.jpeg')
         pygame.display.set_icon(pygame_icon)
 
         # Load graph data

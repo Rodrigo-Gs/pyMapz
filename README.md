@@ -4,6 +4,8 @@
 Código-base para a Unidade Curricular (UC)
 de Inteligência Artificial do Iscte-Sintra.
 
+![Interface do PyMapz](./src/images/pyMapz_Intro_Preview.png)
+
 ### Download do projeto
 Para poderem fazer o _download_ do projeto, deverão seguir as instruções presentes na documentação do código-base. 
 Após garantirem que o código-base já se encontra nas vossas máquinas, procedam para o
