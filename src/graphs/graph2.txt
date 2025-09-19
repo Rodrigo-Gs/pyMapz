@@ -1,0 +1,22 @@
+{
+  "AVEIRO": [["COIMBRA", 3], ["PORTO", 4], ["VISEU", 3], ["LEIRIA", 5], 12],
+  "BEJA": [["ÉVORA", 3], ["SETÚBAL", 5], ["FARO", 5], 8],
+  "BRAGA": [["PORTO", 2], ["VIANA DO CASTELO", 2], ["VILA REAL", 4], 9],
+  "BRAGANÇA": [["VILA REAL", 5], ["GUARDA", 7], 7],
+  "CASTELO BRANCO": [["GUARDA", 4], ["COIMBRA", 5], ["PORTALEGRE", 3], 5],
+  "COIMBRA": [["LEIRIA", 2], ["CASTELO BRANCO", 5], ["AVEIRO", 3], ["VISEU", 4], 8],
+  "ÉVORA": [["BEJA", 3], ["PORTALEGRE", 3], ["SETÚBAL", 4], ["LISBOA", 6], 5],
+  "FARO": [["BEJA", 5], 0],
+  "GUARDA": [["CASTELO BRANCO", 4], ["BRAGANÇA", 7], ["VISEU", 3], 4],
+  "LEIRIA": [["COIMBRA", 2], ["LISBOA", 4], ["SANTARÉM", 2], ["AVEIRO", 5], 6],
+  "LISBOA": [["SETÚBAL", 3], ["LEIRIA", 4], ["SANTARÉM", 2], ["ÉVORA", 6], 5],
+  "PORTALEGRE": [["ÉVORA", 3], ["CASTELO BRANCO", 3], 3],
+  "PORTO": [["BRAGA", 2], ["AVEIRO", 4], ["VILA REAL", 3], 6],
+  "SANTARÉM": [["LISBOA", 2], ["LEIRIA", 2], ["PORTALEGRE", 5], 4],
+  "SETÚBAL": [["LISBOA", 3], ["ÉVORA", 4], ["BEJA", 5], 4],
+  "VIANA DO CASTELO": [["BRAGA", 2], 8],
+  "VILA REAL": [["BRAGANÇA", 5], ["VISEU", 3], ["PORTO", 3], ["BRAGA", 4], 5],
+  "VISEU": [["VILA REAL", 3], ["AVEIRO", 3], ["COIMBRA", 4], ["GUARDA", 3], 6],
+  "start": "VIANA DO CASTELO",
+  "end": "FARO"
+}

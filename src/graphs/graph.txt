@@ -1,0 +1,22 @@
+{
+  "AVEIRO": [["COIMBRA", 2], ["PORTO", 3], ["VISEU", 4], 15],
+  "BEJA": [["ÉVORA", 2], ["SETÚBAL", 4], ["FARO", 6], 13],
+  "BRAGA": [["PORTO", 2], ["VIANA DO CASTELO", 3], 12],
+  "BRAGANÇA": [["VILA REAL", 6], 10],
+  "CASTELO BRANCO": [["GUARDA", 3], ["COIMBRA", 4], 7],
+  "COIMBRA": [["LEIRIA", 3], ["CASTELO BRANCO", 4], ["AVEIRO", 2], 10],
+  "ÉVORA": [["BEJA", 2], ["PORTALEGRE", 4], ["SETÚBAL", 3], 4],
+  "FARO": [["BEJA", 6], 0],
+  "GUARDA": [["CASTELO BRANCO", 3], 1],
+  "LEIRIA": [["COIMBRA", 3], ["LISBOA", 3], 5],
+  "LISBOA": [["SETÚBAL", 2], ["LEIRIA", 3], 4],
+  "PORTALEGRE": [["ÉVORA", 4], 2],
+  "PORTO": [["BRAGA", 2], ["AVEIRO", 3], 3],
+  "SANTARÉM": [["LISBOA", 2], ["LEIRIA", 2], 3],
+  "SETÚBAL": [["LISBOA", 2], ["ÉVORA", 3], ["BEJA", 4], 3],
+  "VIANA DO CASTELO": [["BRAGA", 3], 3],
+  "VILA REAL": [["BRAGANÇA", 6], ["VISEU", 4], 3],
+  "VISEU": [["VILA REAL", 4], ["AVEIRO", 4], 3],
+  "start": "BRAGANÇA",
+  "end": "FARO"
+}

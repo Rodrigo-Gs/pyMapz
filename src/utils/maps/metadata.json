@@ -1,0 +1,21 @@
+{
+    "Raw File Name": "Portugal_all.zip", 
+    "Group": "Portugal", 
+    "License": "You may copy, import or use free of charge national information or symbols on this site for personal or public use provided that such use is not for profit or offensive purposes.", 
+    "country": "Portugal", 
+    "Unnamed: 11": null, 
+    "Processed File Name": "PRT_ADM1.zip", 
+    "timestamp": 1534539070, 
+    "Known Errors": "Includes Madeira and Azores", 
+    "datetime": "2018-08-17 16:51:10", 
+    "version": "1_3_3", 
+    "Unnamed: 12": null, 
+    "Source 2": null, 
+    "Source 1": "DG Territory ", 
+    "Year": 2016, 
+    "iso": "PRT", 
+    "adm": "ADM1", 
+    "Changes": "Yes", 
+    "Link to Source Data": "http://www.dgterritorio.pt/cartografia_e_geodesia/cartografia/carta_administrativa_oficial_de_portugal__caop_/caop_em_vigor/", 
+    "Boundary Level": "ADM 1"
+}

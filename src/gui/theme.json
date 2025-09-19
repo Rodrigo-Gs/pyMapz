@@ -1,0 +1,170 @@
+{
+  "#speed-label": {
+    "colours": {
+      "normal_text": "#000000"
+    }
+  },
+  "#normal-label": {
+    "colours": {
+      "normal_text": "#000000"
+    },
+    "font": {
+      "size": 12
+    }
+  },
+  "#button-label": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#384c5c",
+      "normal_border": "#FFFFFF",
+      "hovered_bg": "#FFFFFF",
+      "hovered_text": "#2B3B48",
+      "hovered_border": "#2B3B48"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2"
+    }
+  },
+  "#button-begin": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#4CAF50",
+      "normal_border": "#4CAF50",
+      "hovered_bg": "#FFFFFF",
+      "hovered_text": "#4CAF50",
+      "hovered_border": "#FFFFFF"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2"
+    }
+  },
+  "drop_down_menu": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#384c5c",
+      "normal_border": "#FFFFFF",
+      "hovered_bg": "#FFFFFF",
+      "hovered_text": "#2B3B48",
+      "hovered_border": "#2B3B48"
+    },
+    "misc": {
+      "expand_direction": "down",
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "open_button_width": "0",
+      "border_width": "2"
+    }
+  },
+  "drop_down_menu.#selected_option": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#384c5c",
+      "normal_border": "#384c5c",
+      "hovered_bg": "#FFFFFF",
+      "hovered_text": "#2B3B48",
+      "hovered_border": "#2B3B48"
+    },
+    "misc": {
+      "border_width": "2",
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10"
+    }
+  },
+  "drop_down_menu.#drop_down_options_list.button": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#384c5c",
+      "normal_border": "#2B3B48",
+      "hovered_bg": "#FFFFFF",
+      "hovered_text": "#2B3B48",
+      "hovered_border": "#2B3B48"
+    },
+    "misc": {
+      "border_width": "1",
+      "open_button_width": "0",
+      "shape_corner_radius": "10"
+    }
+  },
+  "window": {
+    "colours": {
+      "dark_bg": "#CCD9E2",
+      "normal_border": "#2B3B48"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2",
+      "shadow_width": "15",
+      "title_bar_height": "25"
+    }
+  },
+  "window.#title_bar": {
+    "misc": {
+      "text_horiz_alignment": "center"
+    },
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#2B3B48",
+      "hovered_bg": "#2B3B48",
+      "hovered_text": "#FFFFFF",
+      "normal_border": "#384c5c",
+      "hovered_border": "#384c5c"
+    }
+  },
+  "window.#close_button": {
+    "colours": {
+      "normal_text": "#FFFFFF",
+      "normal_bg": "#2B3B48",
+      "hovered_bg": "#ce3030",
+      "hovered_text": "#FFFFFF",
+      "normal_border": "#384c5c",
+      "hovered_border": "#384c5c"
+    }
+  },
+  "horizontal_slider":
+     {
+         "colours":
+         {
+             "normal_bg": "#384c5c",
+             "hovered_bg": "#35393e",
+             "disabled_bg": "#25292e",
+             "selected_bg": "#25292e",
+             "active_bg": "#193784",
+             "dark_bg": "#2B3B48",
+             "normal_text": "#c5cbd8",
+             "hovered_text": "#FFFFFF",
+             "selected_text": "#FFFFFF",
+             "disabled_text": "#6d736f"
+         },
+         "misc":
+         {
+            "shape": "rounded_rectangle",
+            "enable_arrow_buttons": "0",
+            "sliding_button_width": "15"
+         }
+     },
+     "horizontal_slider.button":
+     {
+         "misc":
+         {
+            "border_width": "1"
+         }
+     },
+     "horizontal_slider.#sliding_button":
+     {
+         "colours":
+         {
+            "normal_bg": "#CCD9E2"
+         }
+     },
+  "options_label":
+  {
+    "colours": {
+      "normal_text": "#000000"
+    }
+  }
+}
