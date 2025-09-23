@@ -25,7 +25,7 @@ class GUIManager:
         self._cached_font = pygame.font.SysFont("Tahoma", 16)
 
         # Ajustar se necessario
-        self.window_size = (960, 960)
+        self.window_size = (800, 800)
         self.top = pygame.Rect(0, 0, self.window_size[0], 50)  # Top bar
         self.down = pygame.Rect(0, self.window_size[1] - 40, self.window_size[1], 40)
         self.DARKBLUE = (52, 73, 94)
