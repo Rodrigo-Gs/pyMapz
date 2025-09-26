@@ -1,4 +1,6 @@
-class Algorithms:
+from graph import Graph
+
+class Algorithms(Graph):
     def __init__(self, graph):
         self.found_path = []
         self.visit_order = []
@@ -6,6 +8,18 @@ class Algorithms:
         self.designations = ['Profundidade Primeiro', 'Largura Primeiro', 'Greedy BFS', 'A*', 'Dijkstra']
 
     def dfs(self, start_node, end_node):
+        if start_node == end_node:
+            self.found_path = []
+            return
+        if start_node in self.visit_order:
+            return None
+        self.visit_order.append(start_node)
+        for node in self.get_neighbors(start_node):
+           self.dfs(self, node, end_node)
+
+
+
+
         return [], []
 
     def bfs(self, start_node, end_node):
