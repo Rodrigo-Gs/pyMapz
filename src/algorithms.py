@@ -12,7 +12,7 @@ class Algorithms(Graph):
             self.found_path = []
             return None
         if start_node in self.visit_order:
-            return None
+            return
         self.visit_order.append(start_node)
         for node in self.get_neighbors(start_node):
            self.dfs(self, node, end_node)
