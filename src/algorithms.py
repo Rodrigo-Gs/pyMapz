@@ -10,7 +10,7 @@ class Algorithms(Graph):
     def dfs(self, start_node, end_node):
         if start_node == end_node:
             self.found_path = []
-            return
+            return None
         if start_node in self.visit_order:
             return None
         self.visit_order.append(start_node)
