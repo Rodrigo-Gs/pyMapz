@@ -33,7 +33,7 @@ class Algorithms:
             visited.add(node)
             self.visit_order += self.get_neighbors(node)
 
-        return None
+        return
 
     def greedy_bfs(self, start_node, end_node):
         return [], []
